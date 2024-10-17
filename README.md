@@ -8,8 +8,8 @@ To write a python program for creating Chat using TCP Sockets Links.
  server
 4. Send and receive the message using the send function in socket.
 ## PROGRAM
-### Name: Sharukesh R
-### Register No: 212223220106
+### Name: Arunmozhi Varman T
+### Register No: 212223230022
 ### client
 ```
 import socket
